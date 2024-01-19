@@ -1,0 +1,29 @@
+1/18/2024 - 8:00 pm, Notes by: Jacob M.
+
+Points from meeting:
+===================
+Clarification on "route determination" scope
+Tablet front-end system, virtual or physical. Back-end for tablet in java
+Expectations for languages/systems
+Front-end: Html (Framework:Bootstrap/W3schools)/Web app | Back-end: Java/JSPs?/SQL
+Existing systems and how to integrate. Output types for systems. Can we get hands on these systems
+The sprints and the project plan. How the flow of the semester is going to go. How much control over sprints should we expect from him
+Javadoc and incorporating it
+Database protocols and design
+
+
+
+Plan is to meet every Thursday evening at 8:00pm for 1 hr.
+Elicitation meeting w/ Gesick - 1/23
+Next group meeting (1/25) focus: Scope and Schedule
+
+
+
+Roles:
+=====
+Jacob -
+Selah -
+Jack -
+Gabriel -
+Jonathon -
+
